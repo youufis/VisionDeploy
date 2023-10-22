@@ -1,0 +1,52 @@
+﻿datetime,dev,type,label,cnlabel,probability
+2022-12-31 19:45:59,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,cat,猫,0.96
+2022-12-31 19:46:03,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,person,人,0.68
+2022-12-31 19:46:03,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,dog,狗,0.89
+2022-12-31 19:46:09,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,cat,猫,0.95
+2022-12-31 19:46:11,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,dog,狗,0.88
+2022-12-31 19:46:20,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,teddy bear,泰迪熊,0.9
+2022-12-31 19:46:22,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,cat,猫,0.89
+2022-12-31 19:46:28,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,dog,狗,0.9
+2022-12-31 19:46:28,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,bed,床,0.54
+2022-12-31 19:46:31,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,dog,狗,0.66
+2022-12-31 19:46:34,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,cat,猫,0.95
+2022-12-31 19:46:37,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,dog,狗,0.94
+2022-12-31 19:46:40,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,cat,猫,0.96
+2022-12-31 19:46:42,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,tv,电视,0.51
+2022-12-31 19:46:45,D:/MyPython/paddle/Teaching/VisionDeploy/img/catdog.mp4,det-model,cat,猫,0.89
+2022-12-31 19:46:59,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,zebra,斑马,0.96
+2022-12-31 19:47:05,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,giraffe,长颈鹿,0.95
+2022-12-31 19:47:06,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,person,人,0.92
+2022-12-31 19:47:06,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,skis,雪橘,0.91
+2022-12-31 19:47:09,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,bus,公共汽车,0.98
+2022-12-31 19:47:11,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,person,人,0.95
+2022-12-31 19:47:11,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,sports ball,运动球,0.85
+2022-12-31 19:47:11,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,baseball bat,棒球棒,0.84
+2022-12-31 19:47:11,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,baseball glove,棒球手套,0.9
+2022-12-31 19:47:13,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,motorcycle,摩托车,0.93
+2022-12-31 19:47:15,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,umbrella,雨伞,0.51
+2022-12-31 19:47:15,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,dog,狗,0.95
+2022-12-31 19:47:15,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,bed,床,0.9
+2022-12-31 19:47:15,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,tv,电视,0.88
+2022-12-31 19:47:17,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,person,人,0.97
+2022-12-31 19:47:17,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,sports ball,运动球,0.81
+2022-12-31 19:47:17,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,tennis racket,网球拍,0.89
+2022-12-31 19:47:19,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,elephant,大象,0.95
+2022-12-31 19:47:21,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,chair,椅子,0.53
+2022-12-31 19:47:21,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,couch,沙发,0.93
+2022-12-31 19:47:21,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,potted plant,盆栽植物,0.56
+2022-12-31 19:47:21,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,vase,花瓶,0.53
+2022-12-31 19:47:23,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,tv,电视,0.86
+2022-12-31 19:47:23,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,keyboard,键盘,0.89
+2022-12-31 19:47:25,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,elephant,大象,0.98
+2022-12-31 19:47:27,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,cat,猫,0.8
+2022-12-31 19:47:27,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,dog,狗,0.97
+2022-12-31 19:47:27,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,couch,沙发,0.97
+2022-12-31 19:47:29,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,bird,鸟,0.95
+2022-12-31 19:47:31,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,horse,马,0.96
+2022-12-31 19:47:33,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,dog,狗,0.98
+2022-12-31 19:47:35,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,cow,牛,0.95
+2022-12-31 19:47:37,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,airplane,飞机,0.94
+2022-12-31 19:47:39,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,person,人,0.75
+2022-12-31 19:47:39,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,bench,长凳,0.91
+2022-12-31 19:47:41,D:/MyPython/paddle/Teaching/VisionDeploy/img/mini.mp4,det-model,kite,风筝,0.86
