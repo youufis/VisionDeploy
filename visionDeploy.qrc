@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="harr">
+    <file>haarcascade_frontalface_alt.xml</file>
+  </qresource>
+</RCC>
