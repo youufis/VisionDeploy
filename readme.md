@@ -22,3 +22,8 @@
 
 ## 注意事项
     1、models模型目录，用来存放部署模型，也可以存放自己训练的模型。对完成特定目标检测。
+
+## 开发环境
+    Python 3.9+PySide 6
+    PaddlePaddle 2.4.1+fastdeploy-python 1.0.3
+    
